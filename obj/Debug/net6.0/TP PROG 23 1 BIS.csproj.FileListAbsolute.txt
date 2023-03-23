@@ -1,0 +1,15 @@
+Z:\TP PROG 23 1 BIS\bin\Debug\net6.0\TP PROG 23 1 BIS.exe
+Z:\TP PROG 23 1 BIS\bin\Debug\net6.0\TP PROG 23 1 BIS.deps.json
+Z:\TP PROG 23 1 BIS\bin\Debug\net6.0\TP PROG 23 1 BIS.runtimeconfig.json
+Z:\TP PROG 23 1 BIS\bin\Debug\net6.0\TP PROG 23 1 BIS.dll
+Z:\TP PROG 23 1 BIS\bin\Debug\net6.0\TP PROG 23 1 BIS.pdb
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.csproj.AssemblyReference.cache
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.AssemblyInfoInputs.cache
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.AssemblyInfo.cs
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.csproj.CoreCompileInputs.cache
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.dll
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\refint\TP PROG 23 1 BIS.dll
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.pdb
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\TP PROG 23 1 BIS.genruntimeconfig.cache
+Z:\TP PROG 23 1 BIS\obj\Debug\net6.0\ref\TP PROG 23 1 BIS.dll
